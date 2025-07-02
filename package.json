@@ -6,9 +6,16 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "^4.1.0",
+    "gray-matter": "^4.0.3",
     "next": "latest",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^10.2.4",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "remark": "^15.0.1",
+    "remark-html": "^16.0.1",
+    "tailwindcss": "^4.1.11"
   },
   "engines": {
     "node": ">=18"
